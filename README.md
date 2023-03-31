@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Mathmatics
 - 📫 How to reach me: ... minoda.kohei@gmail.com
 - 😄 Pronouns: ... Working machine
-- ⚡ Fun fact: ... My favorite dood is Fish & Chips.
+- ⚡ Fun fact: ... My favorite food is Fish & Chips.
