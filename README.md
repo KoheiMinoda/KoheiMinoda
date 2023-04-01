@@ -14,6 +14,8 @@
 Here are some ideas to get you started:
 -->
 
+I'm a student of Kyushu University
+
 - 🔭 I’m currently working on ... Kyushu University
 - 🌱 I’m currently learning ... Numerical calculation
 - 👯 I’m looking to collaborate on ... Special one
