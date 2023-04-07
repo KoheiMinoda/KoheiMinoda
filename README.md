@@ -1,4 +1,6 @@
 # Hi there 👋 I am KoheiMinoda
+
+<!--
 ## My Skils 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=python,r,js,html,css,firebase,figma" />
 
@@ -7,8 +9,6 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KoheiMinoda&theme=gruvbox" />
 </p>
 
-
-<!--
 **KoheiMinoda/KoheiMinoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
