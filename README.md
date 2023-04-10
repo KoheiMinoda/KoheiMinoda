@@ -17,10 +17,5 @@ Here are some ideas to get you started:
 I'm a student of Kyushu University
 
 - 🔭 I’m currently working on ... Kyushu University
-- 🌱 I’m currently learning ... Numerical calculation
-- 👯 I’m looking to collaborate on ... Special one
-- 🤔 I’m looking for help with ... The study
-- 💬 Ask me about ... Mathmatics
-- 📫 How to reach me: ... minoda.kohei@gmail.com
-- 😄 Pronouns: ... Working machine
+- 🌱 I’m currently learning ... Mathmatics
 - ⚡ Fun fact: ... My favorite food is Fish & Chips.
