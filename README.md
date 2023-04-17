@@ -19,6 +19,3 @@ I'm a student of Kyushu University
 - 🔭 I’m currently working on ... Kyushu University
 - 🌱 I’m currently learning ... Mathmatics
 - ⚡ Fun fact: ... My favorite food is Fish & Chips.
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoheiMinoda&langs_count=6&theme=gruvbox&layout=compact&show_icons=true" />
