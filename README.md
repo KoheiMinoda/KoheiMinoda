@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 <!--I'm a student of Kyushu University-->
 
-- 🔭 I’m currently working on ... Kyushu University
+- 🔭 I’m currently studying at ... Kyushu University
 - 🌱 I’m currently learning ... Mathmatics & Dynamics
-- ⚡ Fun fact: ... My favorite food is Fish & Chips.
+- ⚡ Fun fact: ... My research theme is fluid dynamics
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoheiMinoda&langs_count=6&theme=gruvbox&layout=compact&show_icons=true" />
