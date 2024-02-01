@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at ... Kyushu University
 - 🌱 I’m currently learning ... Mathmatics & Dynamics
-- ⚡ Fun fact: ... My research theme is fluid dynamics
+- ⚡ Fun fact: ... My research theme is Hydrodynamics
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoheiMinoda&layout=compact&langs_count=6&theme=gruvbox&show_icons=true" />
