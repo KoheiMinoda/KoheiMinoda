@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying at ... Kyushu University
 - 🌱 I’m currently learning ... Mathmatics & Ocean Engineering
 
+<!--
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoheiMinoda&layout=compact&langs_count=6&theme=gruvbox&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KoheiMinoda&theme=gruvbox" />
 </p>
+-->
