@@ -1,27 +1,14 @@
-# Hi there 👋 I am KoheiMinoda
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=D79921&center=true&vCenter=true&width=435&lines=+Hi+there!;I'm+Kohei+Minoda;PhD+Student@Kyushu+Univ" alt="Typing SVG" />
+</div>
 
-<!--
-## My Skils 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=python,r,js,html,css,firebase,figma" />
+<div align="center">
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoheiMinoda&langs_count=6&theme=gruvbox&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KoheiMinoda&theme=gruvbox" />
-</p>
+<h3>🛠 Tech Stack</h3>
+<img src="https://skillicons.dev/icons?theme=dark&perline=10&i=python,r,cpp,fortran,js,html,css,linux,bash,vim,git,github,latex,firebase,figma" />
 
-**KoheiMinoda/KoheiMinoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
--->
+</div>
 
-<!--I'm a student of Kyushu University-->
-
-- 🔭 I’m currently studying at ... Kyushu University
-- 🌱 I’m currently learning ... Mathmatics & Ocean Engineering
-
-<!--
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoheiMinoda&layout=compact&langs_count=6&theme=gruvbox&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KoheiMinoda&theme=gruvbox" />
-</p>
--->
+<hr/>
