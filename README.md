@@ -4,7 +4,6 @@
 
 <div align="center">
 
-<h3>🛠 Tech Stack</h3>
 <img src="https://skillicons.dev/icons?theme=dark&perline=10&i=python,r,cpp,fortran,js,ts,react,html,css,aws,gcp,docker,linux,bash,vim,git,github,latex,firebase" />
 
 </div>
